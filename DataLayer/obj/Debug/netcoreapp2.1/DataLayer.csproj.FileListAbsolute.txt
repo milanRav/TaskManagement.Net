@@ -1,0 +1,16 @@
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csprojAssemblyReference.cache
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CopyComplete
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Milan\source\repos\TaskManagement\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb

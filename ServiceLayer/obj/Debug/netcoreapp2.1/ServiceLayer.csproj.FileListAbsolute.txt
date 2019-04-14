@@ -1,0 +1,9 @@
+C:\Users\Milan\source\repos\TaskManagement\ServiceLayer\bin\Debug\netcoreapp2.1\ServiceLayer.deps.json
+C:\Users\Milan\source\repos\TaskManagement\ServiceLayer\bin\Debug\netcoreapp2.1\ServiceLayer.dll
+C:\Users\Milan\source\repos\TaskManagement\ServiceLayer\bin\Debug\netcoreapp2.1\ServiceLayer.pdb
+C:\Users\Milan\source\repos\TaskManagement\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\Milan\source\repos\TaskManagement\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Milan\source\repos\TaskManagement\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Milan\source\repos\TaskManagement\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\Milan\source\repos\TaskManagement\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.dll
+C:\Users\Milan\source\repos\TaskManagement\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.pdb
